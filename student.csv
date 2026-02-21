@@ -1,0 +1,101 @@
+Student_ID,Study_Hours,Attendance_Percentage,Parental_Education,Internet_Access,Sleep_Hours,Previous_Grade,Final_Score
+1,2,74,Postgraduate,No,6,61,59
+2,5,91,Graduate,Yes,7,77,81
+3,3,82,High School,Yes,6,66,69
+4,6,94,Postgraduate,Yes,8,84,88
+5,1,63,Graduate,No,5,52,49
+6,4,86,Graduate,Yes,7,73,75
+7,7,97,Postgraduate,Yes,8,89,93
+8,2,71,High School,No,6,57,54
+9,5,88,Graduate,Yes,7,76,79
+10,3,77,High School,Yes,6,65,67
+11,6,92,Postgraduate,No,8,83,87
+12,4,83,Graduate,Yes,7,72,74
+13,1,66,High School,No,5,49,47
+14,7,98,Postgraduate,Yes,8,91,95
+15,2,73,High School,Yes,6,60,62
+16,5,89,Graduate,Yes,7,79,83
+17,3,76,High School,No,6,64,66
+18,6,95,Postgraduate,Yes,8,87,91
+19,4,84,Graduate,No,7,74,78
+20,2,69,High School,No,6,55,53
+21,5,87,Graduate,Yes,7,80,84
+22,3,80,High School,Yes,6,67,70
+23,6,93,Postgraduate,Yes,8,85,89
+24,4,82,Graduate,Yes,7,73,77
+25,1,60,High School,Yes,5,48,45
+26,7,99,Postgraduate,Yes,8,94,97
+27,2,75,High School,Yes,6,62,64
+28,5,90,Graduate,Yes,7,82,86
+29,3,79,High School,No,6,63,65
+30,6,96,Postgraduate,Yes,8,90,94
+31,4,85,Graduate,Yes,7,75,79
+32,2,72,High School,Yes,6,58,56
+33,5,88,Graduate,Yes,7,78,82
+34,3,78,High School,Yes,6,66,68
+35,6,91,High School,Yes,8,84,88
+36,1,65,High School,No,5,50,48
+37,7,97,Postgraduate,Yes,8,92,96
+38,4,83,Graduate,Yes,7,74,76
+39,2,70,High School,No,6,54,52
+40,5,89,Graduate,Yes,7,81,85
+41,3,81,High School,Yes,6,69,71
+42,6,94,Postgraduate,Yes,8,88,92
+43,4,86,High School,Yes,7,76,80
+44,1,62,High School,No,5,47,46
+45,7,98,Postgraduate,Yes,8,93,98
+46,2,74,High School,Yes,6,61,63
+47,5,87,Graduate,Yes,7,79,83
+48,3,77,Graduate,No,6,65,67
+49,6,92,Postgraduate,Yes,8,86,90
+50,4,84,Graduate,Yes,7,72,75
+51,3,83,Graduate,Yes,7,71,74
+52,6,90,High School,Yes,8,85,89
+53,2,68,Graduate,No,6,56,55
+54,5,88,Graduate,Yes,7,80,82
+55,4,79,High School,Yes,6,67,70
+56,7,96,Postgraduate,Yes,8,91,94
+57,1,64,High School,No,5,48,47
+58,6,93,Graduate,Yes,7,83,86
+59,2,73,High School,No,6,59,58
+60,5,89,Postgraduate,Yes,8,84,88
+61,3,75,High School,Yes,6,63,66
+62,4,85,Graduate,Yes,7,74,77
+63,7,99,Postgraduate,Yes,8,95,98
+64,1,61,High School,No,5,46,44
+65,6,94,Graduate,Yes,7,87,90
+66,2,72,High School,No,6,57,55
+67,5,91,Postgraduate,Yes,8,86,89
+68,3,78,High School,Yes,6,66,69
+69,4,82,Graduate,Yes,7,73,76
+70,7,97,Postgraduate,Yes,8,92,95
+71,2,69,High School,No,6,54,52
+72,5,88,Graduate,Yes,7,79,81
+73,3,80,High School,Yes,6,68,70
+74,6,93,Postgraduate,Yes,8,88,91
+75,4,84,Graduate,Yes,7,75,78
+76,1,63,High School,No,5,49,47
+77,7,98,Postgraduate,Yes,8,93,97
+78,2,74,High School,Yes,6,60,62
+79,5,90,Graduate,Yes,7,82,85
+80,3,76,High School,No,6,64,66
+81,6,92,Postgraduate,Yes,8,87,90
+82,4,83,Graduate,Yes,7,73,76
+83,2,71,High School,No,6,56,54
+84,5,89,Graduate,Yes,7,80,83
+85,3,78,High School,Yes,6,67,69
+86,7,97,Postgraduate,Yes,8,92,96
+87,1,62,High School,No,5,47,45
+88,6,94,Graduate,Yes,7,88,91
+89,2,73,High School,No,6,59,57
+90,5,88,Postgraduate,Yes,8,84,87
+91,3,75,High School,Yes,6,64,66
+92,4,85,Graduate,Yes,7,76,79
+93,7,99,Postgraduate,Yes,8,95,98
+94,1,60,High School,No,5,45,43
+95,6,93,Graduate,Yes,7,86,89
+96,2,70,High School,No,6,55,53
+97,5,91,Postgraduate,Yes,8,87,90
+98,3,79,High School,Yes,6,68,71
+99,4,84,Graduate,Yes,7,74,77
+100,7,98,Postgraduate,Yes,8,93,97
